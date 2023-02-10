@@ -1,0 +1,36 @@
+No Heat
+hot
+cold
+freeze
+Stays Cold
+Will not heat up
+No temperature change
+Heater Controls do not work
+Restricted Heater Core
+HVAC Door Actuators
+Restricted Radiator Coolant Flow
+Low Coolant Level
+HVAC Control Unit
+engine temperature guage
+Cold Air  
+No Airflow 
+Will not warm up 
+Will not defrost window
+Plugged heater core 
+HVAC actuators bad
+Blower Motor
+HVAC controls damaged
+HVAC blend doors damaged
+Temperature Fluctuates 
+Heat goes up & down
+Leaking Radiator
+Leaking head gasket
+Leaking radiator hoses
+Leaking heater core
+Leaking heater hose 
+Restricted Radiator
+Broken electric fan
+Broken water pump impeller
+Engine fan stuck on high
+Blower Motor
+Plugged heater core

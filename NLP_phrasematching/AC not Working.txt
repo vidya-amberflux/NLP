@@ -1,0 +1,38 @@
+AC not Working
+A/C not working
+A/C
+air conditioner
+cool air
+air
+Not Cooling
+condenser
+refridgerant
+Too hot in vehicle No Air Hot Air
+Temperature will not change
+No Airflow
+No Sounds from dash area 
+Weak Airflow
+Nothing Changes when controls are used
+No response from controls
+air flow from dash
+A/C  button lighting up
+Engine speed decreases
+Engine Idle Change
+Click sound from engine area
+Rumbling noise from engine area
+Compressor Failure (Clutch Failure)
+Refrigerant Level
+Compressor Fuse
+Compressor Relay
+Expansion Valve
+Restricted Condenser Airflow (Cooling Fan)
+Refrigerant Pressure Sensors Blower Fan
+Blower Fan Fuse
+Restricted Cabin Air Filter
+Heater Not Working Properly
+Blower Fan Doesn't Work On All Settings
+Loud Clicking Noise In Dash
+Compressor Failed
+Watery Sound Coming From Dashboard
+Clattering Noise When Ac Is Turned On
+Knocking Noise When Changing Air Directional Knob

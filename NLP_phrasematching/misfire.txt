@@ -1,0 +1,27 @@
+misfire
+lacks power
+stalling
+Fuel Pressure
+Ignition Coil
+Spark Plug
+Coil On Plug
+Injector
+Powertrain Control Module (PCM)
+Fuel Pump
+Variable Camshaft Timing (VCT)
+Fuel Pump Relay
+engine rattling
+cylinder compression
+piston rings
+jerk
+coil plug
+fluid overheating
+camshaft
+cylinder misfire
+fuel injector
+o2 sensor
+damaged camshaft
+worn camshaft
+lacking power
+stalls
+rattles

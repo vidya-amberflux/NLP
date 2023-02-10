@@ -1,0 +1,25 @@
+Power window not working
+Window is stuck 
+Window will not move 
+No response from window switch 
+Grinding noise from door 
+Buzzing Noise from door 
+Window only moves in one direction 
+Can not open 
+Can not close window
+Window will not go up
+Window will not go down
+Window Motor 
+Door Jam Wiring 
+Window Switch
+Broken Window Regulator
+Broken Window Cable 
+Broken Window Motor
+Broken Window Gear
+Glass Disconnected From Regulator
+Broken Regulator Cable
+sounds from the window
+non-working window
+Sticking Window Tracks
+Restricted Window Tracks
+
